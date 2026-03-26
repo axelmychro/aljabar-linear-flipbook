@@ -1,23 +1,29 @@
 # Aljabar Linear Flipbook
 
-Background: #eff1f5 (light)
-Accent: #ea76cb (pink)
+Background: #1e1e2e (dark)
+Accent: #f5c2e7 (pink)
 
 ## Materi
 
-Background: #303446 (dark)
+Background: #24273a (dark)
+Foreground: #cad3f5
 
 1. Matriks dan Determinan
-   - Accent: #e78284 (red)
+   - Accent: #ed8796 (red)
+
+Dalam matematika, matriks adalah susunan bilangan, simbol, atau ekspresi yang disusun dalam baris dan kolom sehingga membentuk suatu bangun persegi.
+
+(Anton 1987, hlm. 23)
+(Beauregard & Fraleigh 1973, hlm. 56)
 
 2. Sistem Persamaan Linear
-   - Accent: #ef9f76 (peach)
+   - Accent: #f5a97f (peach)
 
 3. Eliminasi Gauss
-   - Accent: #a6d189 (green)
+   - Accent: #a6da95 (green)
 
 4. Vektor
-   - Accent: #99d1db (sky)
+   - Accent: #91d7e3 (sky)
 
 5. Transformasi Linear
-   - Accent: #8caaee (blue)
+   - Accent: #8aadf4 (blue)
