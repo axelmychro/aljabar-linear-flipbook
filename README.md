@@ -3,6 +3,11 @@
 Background: #1e1e2e (dark)
 Accent: #f5c2e7 (pink)
 
+## Daftar Isi
+
+Background: #eff1f5 (ligth)
+Foreground: #4c4f69
+
 ## Materi
 
 Background: #24273a (dark)
