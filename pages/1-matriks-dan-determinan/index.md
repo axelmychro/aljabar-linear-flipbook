@@ -10,7 +10,7 @@ transition: slide-up
   }
 </style>
 
-## Matriks dan Determinan
+# Matriks dan Determinan
 
 ---
 src: ./matriks.md

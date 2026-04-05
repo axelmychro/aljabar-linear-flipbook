@@ -1,9 +1,10 @@
 ---
 layout: default
 class: bg-[#24273a] text-[#cad3f5]
+level: 1
 ---
 
-# Definisi Sistem Persamaan Linear
+## Sistem Persamaan Linear
 
 Sistem Persamaan Linear (SPL) adalah kumpulan dari dua atau lebih persamaan linear yang melibatkan variabel-variabel yang sama.
 
@@ -39,9 +40,10 @@ $$
 ---
 layout: default
 class: bg-[#24273a] text-[#cad3f5]
+level: 3
 ---
 
-# Bentuk Matriks SPL
+## Bentuk Matriks SPL
 
 Representasi SPL dalam bentuk matriks memudahkan perhitungan komputasi dan analisis teoritis.
 
@@ -82,6 +84,7 @@ $$ [A|b] = \left( \begin{array}{ccc|c} a_{11} & a_{12} & a_{13} & b_1 \\ a_{21} 
 ---
 layout: default
 class: bg-[#24273a] text-[#cad3f5]
+level: 2
 ---
 
 # Contoh Soal: Pemodelan SPL

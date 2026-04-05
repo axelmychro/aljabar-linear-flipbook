@@ -1,5 +1,5 @@
 ---
-title: Matriks
+# title: Matriks
 layout: two-cols-header
 class: bg-[#24273a] text-[#c6d0f5] text-center
 transition: fade-out
