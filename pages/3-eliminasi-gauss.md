@@ -3,7 +3,7 @@ layout: default
 class: bg-[#24273a] text-[#cad3f5]
 ---
 
-# Metode Eliminasi Gauss & Gauss-Jordan
+# Eliminasi Gauss dan Gauss-Jordan
 
 Tujuan utama metode ini adalah menyederhanakan *Augmented Matrix* menggunakan **Operasi Baris Elementer (OBE)** agar nilai variabel mudah ditemukan.
 
@@ -22,16 +22,22 @@ Tujuan utama metode ini adalah menyederhanakan *Augmented Matrix* menggunakan **
 ---
 layout: default
 class: bg-[#24273a] text-[#cad3f5]
+level: 2
 ---
 
-# Contoh Penyelesaian: Eliminasi Gauss
+## Contoh Penyelesaian Eliminasi Gauss
 
-<p class="text-[#a6da95] font-bold">Soal:</p> Selesaikan sistem persamaan berikut:
+
 $x + y + z = 6$ <br>
 $2x - y + 3z = 14$ <br>
 $-x + 2y - z = -2$
 
+
+
 **Langkah 1: Tulis Matriks Diperbesar**
+
+<div class="absolute left-16 top-1/2">
+
 $$
 \left( \begin{array}{ccc|c} 
 1 & 1 & 1 & 6 \\ 
@@ -39,6 +45,10 @@ $$
 -1 & 2 & -1 & -2 
 \end{array} \right)
 $$
+
+</div>
+
+<div class="absolute right-8 top-24">
 
 **Langkah 2: Operasi Baris Elementer (Membentuk Segitiga Atas)**
 * $R_2 - 2R_1 \rightarrow R_2$ dan $R_3 + R_1 \rightarrow R_3$:
@@ -48,16 +58,18 @@ $$
 * $R_3 + R_2 \rightarrow R_3$:
 $$
 \left( \begin{array}{ccc|c} 1 & 1 & 1 & 6 \\ 0 & -3 & 1 & 2 \\ 0 & 0 & 1 & 6 \end{array} \right)
+
 $$
+</div>
 
 ---
 layout: default
 class: bg-[#24273a] text-[#cad3f5]
+level: 2
 ---
 
-# Lanjutan: Substitusi Mundur & Gauss-Jordan
+# Substitusi Mundur dan Gauss-Jordan
 
-<p class="text-[#a6da95] font-bold">Substitusi Mundur (Dari Eliminasi Gauss):</p>
 Dari matriks terakhir, kita dapatkan:
 1. $z = 6$
 2. $-3y + z = 2 \Rightarrow -3y + 6 = 2 \Rightarrow -3y = -4 \Rightarrow y = 4/3$
