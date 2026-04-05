@@ -1,9 +1,9 @@
 ---
 theme: default
 layout: cover
-title: Aljabar Linear Flipbook
+title: Esensi Aljabar Linear: Ruang dan Transformasi
 info: |
-  ## Aljabar Linear Flipbook
+  ## Esensi Aljabar Linear: Ruang dan Transformasi
 class: bg-[#1e1e2e] text-[#f5c2e7] text-center
 drawings:
   persist: false
@@ -23,7 +23,7 @@ comark: true
   }
 </style>
 
-# Aljabar Linear Flipbook
+# Esensi Aljabar Linear: Ruang dan Transformasi
 
 ---
 src: ./pages/i-daftar-isi.md

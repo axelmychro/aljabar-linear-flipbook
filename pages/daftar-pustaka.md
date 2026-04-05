@@ -29,7 +29,7 @@ Referensi utama yang digunakan dalam penyusunan materi Aljabar Linear ini:
 </div>
 
 <footer class="absolute bottom-8 right-8 text-[#b7bdf8] opacity-50">
-  Aljabar Linear Flipbook &copy; 2026
+  Esensi Aljabar Linear: Ruang dan Transformasi &copy; 2026
 </footer>
 
 <style>

@@ -1,4 +1,4 @@
-# Aljabar Linear Flipbook
+# Esensi Aljabar Linear: Ruang dan Transformasi
 
 Background: #1e1e2e (dark)
 Accent: #f5c2e7 (pink)
