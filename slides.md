@@ -1,7 +1,7 @@
 ---
 theme: default
 layout: cover
-title: Esensi Aljabar Linear: Ruang dan Transformasi
+title: 'Esensi Aljabar Linear: Ruang dan Transformasi'
 info: |
   ## Esensi Aljabar Linear: Ruang dan Transformasi
 class: bg-[#1e1e2e] text-[#f5c2e7] text-center
