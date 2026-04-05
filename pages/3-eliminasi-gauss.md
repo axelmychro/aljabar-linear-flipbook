@@ -10,9 +10,9 @@ Tujuan utama metode ini adalah menyederhanakan *Augmented Matrix* menggunakan **
 <div class="border border-[#a6da95] p-4 rounded-lg my-4">
 <h3 class="text-[#a6da95] mb-2 font-bold">Tiga Aturan OBE:</h3>
 <ol class="list-decimal pl-6">
-  <li><b>Pertukaran</b>: Menukar posisi dua baris ($R_i \leftrightarrow R_j$).</li>
-  <li><b>Perkalian</b>: Mengalikan baris dengan konstanta tak nol ($k \cdot R_i$).</li>
-  <li><b>Penjumlahan</b>: Menambahkan kelipatan suatu baris ke baris lain ($R_i + kR_j \rightarrow R_i$).</li>
+  <li><b>Pertukaran</b>: Menukar posisi dua baris.</li>
+  <li><b>Perkalian</b>: Mengalikan baris dengan konstanta tak nol.</li>
+  <li><b>Penjumlahan</b>: Menambahkan kelipatan suatu baris ke baris lain.</li>
 </ol>
 </div>
 
