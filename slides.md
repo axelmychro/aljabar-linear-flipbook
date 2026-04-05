@@ -16,7 +16,7 @@ comark: true
     @apply rounded-md;
   }
   h1, h2, h3, h4 {
-    @apply !text-8xl tracking-tighter font-light;
+    @apply text-8xl tracking-tighter font-light;
   }
   p {
     @apply tracking-wide font-semibold;
@@ -34,7 +34,7 @@ src: ./pages/1-matriks-dan-determinan/index.md
 ---
 
 ---
-src: ./pages/2-sistem-persamaan-linear.md
+src: ./pages/2-sistem-persamaan-linear/index.md
 ---
 
 ---
