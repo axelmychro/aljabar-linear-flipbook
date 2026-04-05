@@ -16,7 +16,7 @@ comark: true
     @apply rounded-md;
   }
   h1, h2, h3, h4 {
-    @apply !text-8xl tracking-tighter font-light;
+    @apply text-8xl tracking-tighter font-light;
   }
   p {
     @apply tracking-wide font-semibold;
@@ -30,26 +30,21 @@ src: ./pages/i-daftar-isi.md
 ---
 
 ---
-src:
-./pages/1-matriks-dan-determinan.md
+src: ./pages/1-matriks-dan-determinan/index.md
 ---
 
 ---
-src:
-./pages/2-sistem-persamaan-linear.md
+src: ./pages/2-sistem-persamaan-linear/index.md
 ---
 
 ---
-src:
-./pages/3-eliminasi-gauss.md
+src: ./pages/3-eliminasi-gauss.md
 ---
 
 ---
-src:
-./pages/4-vektor.md
+src: ./pages/4-vektor.md
 ---
 
 ---
-src:
-./pages/5-transformasi-linear.md
+src: ./pages/5-transformasi-linear.md
 ---
