@@ -48,3 +48,7 @@ src: ./pages/4-vektor.md
 ---
 src: ./pages/5-transformasi-linear.md
 ---
+
+---
+src: ./pages/daftar-pustaka.md
+---
